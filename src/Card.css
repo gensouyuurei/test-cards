@@ -27,13 +27,12 @@
     font-family: "Arial", sans-serif;
     font-size: 48px;
     font-weight: bold;
-    color: rgb(204,204,204);
-    border: solid #cbcbcb 4px;
-    border-radius: 47px;
+    color: black;
+    border: solid black 4px;
+    border-radius: 100%;
     width: 94px;
     height: 94px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f5f1dd;
 }
